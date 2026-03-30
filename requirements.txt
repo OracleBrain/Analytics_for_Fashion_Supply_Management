@@ -1,6 +1,7 @@
-streamlit
-pandas
-nbformat
-plotly
-duckdb
-statsmodels
+streamlit>=1.28.0
+pandas>=2.0.0
+plotly>=5.0.0
+duckdb>=0.8.0
+statsmodels>=0.14.0
+nbformat>=5.0.0
+numpy>=1.25.0
