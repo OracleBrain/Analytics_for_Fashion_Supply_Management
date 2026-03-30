@@ -1,0 +1,6 @@
+streamlit
+pandas
+nbformat
+plotly
+duckdb
+statsmodels
